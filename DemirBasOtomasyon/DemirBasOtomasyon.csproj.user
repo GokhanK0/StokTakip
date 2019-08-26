@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\gkus1\OneDrive\Masaüstü\MySetup\|C:\Users\gkus1\OneDrive\Masaüstü\Setup Update\|C:\Users\gkus1\OneDrive\Masaüstü\Setup\|C:\Users\gkus1\OneDrive\Masaüstü\Setup1\|C:\Users\gkus1\OneDrive\Masaüstü\DemirBasSetup\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory>C:\Program Files %28x86%29\Microsoft SDKs\ClickOnce Bootstrapper\Packages\DotNetFX452</BootstrapperUrlHistory>
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
